@@ -1,5 +1,5 @@
-create database department;
-use department;
+create database departmentdb;
+use departmentdb;
 CREATE TABLE Department (
     dept_id INT PRIMARY KEY,
     dept_name VARCHAR(100)
